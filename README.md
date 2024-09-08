@@ -53,22 +53,3 @@ Para contribuir com este projeto, siga estes passos:
 * **Case-sensitivity:** A pesquisa é feita de forma case-insensitive para facilitar a busca.
 * **Múltiplas palavras-chave:** A pesquisa considera múltiplas palavras-chave, permitindo encontrar resultados mais precisos.
 
-Este README fornece uma visão geral da aplicação, suas funcionalidades e como ela funciona. Ele pode ser utilizado como ponto de partida para futuras melhorias e como referência para outros desenvolvedores.
-
-**Para visualizar este projeto no GitHub, acesse:** [Link para o seu repositório no GitHub]
-
-**Substitua "[Link para o seu repositório no GitHub]" pelo link real do seu repositório.**
-
-**Adicione badges ao seu README para mostrar informações como a última atualização, linguagem utilizada e status do projeto:**
-```markdown
-[![GitHub last commit](https://img.shields.io/github/last-commit/your-username/imperadores-romanos?style=flat-square)](https://github.com/your-username/imperadores-romanos)
-[![JavaScript](https://img.shields.io/badge/javascript-3178c6?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-```
-
-**Personalize este README com mais detalhes sobre o seu projeto, como:**
-* **Screenshots:** Mostre como a aplicação funciona com capturas de tela.
-* **Diagrama de fluxo:** Crie um diagrama para visualizar o fluxo da aplicação.
-* **Contribuidores:** Liste os colaboradores do projeto.
-* **Licença:** Indique a licença utilizada para o projeto.
-
-Com este README, você terá um guia completo para o seu projeto e facilitará a colaboração de outros desenvolvedores.
