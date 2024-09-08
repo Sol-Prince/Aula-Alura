@@ -1,4 +1,4 @@
-## README.md: Aplicação de Pesquisa de Imperadores Romanos
+## README.md: Aplicação de Pesquisa de Imperadores Romanos - Imersão com google Gemini
 
 ### Descrição
 Este projeto web permite pesquisar por imperadores romanos a partir de um banco de dados local. Ao digitar o nome de um imperador no campo de pesquisa, a aplicação busca por correspondências no título, descrição e tags dos registros e exibe os resultados relevantes.
